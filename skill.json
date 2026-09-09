@@ -1,0 +1,13 @@
+{
+  "name": "genpark-seqlock-sequential-lock-reader-writer-skill",
+  "version": "1.0.0",
+  "description": "Linux-inspired Sequential Lock (seqlock) providing zero-contention reader loops and atomic version counter validation for writer priority.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "concurrency-primitives",
+    "seqlock",
+    "reader-writer-lock",
+    "lockless-sync"
+  ]
+}
